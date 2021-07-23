@@ -1,0 +1,104 @@
+[
+  {
+    "broj_indeksa": 20191000,
+    "lozinka": "sifra1",
+    "ime": "Vanja",
+    "prezime": "Petric",
+    "email": "vanjapetric@singimail.com",
+    "ocene": [
+      {
+        "sifra_predmeta": 111,
+        "sifra_profesora": 200,
+        "ocena": 8
+      },
+      {
+        "sifra_predmeta": 112,
+        "sifra_profesora": 200,
+        "ocena": 9
+      }
+    ]
+  },
+  {
+    "broj_indeksa": 20191001,
+    "lozinka": "sifra2",
+    "ime": "Pera",
+    "prezime": "Peric",
+    "email": "peraperic@singimail.com",
+    "ocene": [
+     
+      {
+        "sifra_predmeta": 114,
+        "sifra_profesora": 203,
+        "ocena": 8
+      },
+      {
+        "sifra_predmeta": 115,
+        "sifra_profesora": 204,
+        "ocena": 6
+      },
+      {
+        "sifra_predmeta": 111,
+        "sifra_profesora": 200,
+        "ocena": 7
+      }
+    ]
+  },
+  {
+    "broj_indeksa": 20191002,
+    "lozinka": "sifra2",
+    "ime": "Pera",
+    "prezime": "Mihailovic",
+    "email": "peraperic@singimail.com",
+    "ocene": [
+    
+      {
+        "sifra_predmeta": 114,
+        "sifra_profesora": 203,
+        "ocena": 8
+      },
+      {
+        "sifra_predmeta": 115,
+        "sifra_profesora": 204,
+        "ocena": 6
+      }
+    ]
+  },
+  {
+    "broj_indeksa": "20191004",
+    "lozinka": "sifra5",
+    "ime": "Nikola",
+    "prezime": "Dizdraveci",
+    "email": "dizde@gmail.com",
+    "ocene": []
+  },
+  {
+    "broj_indeksa": "20191010",
+    "lozinka": "sifra10",
+    "ime": "Petar",
+    "prezime": "Petrovic",
+    "email": "pera@gmail.com",
+    "ocene": []
+  },
+  {
+    "broj_indeksa": "20151011",
+    "lozinka": "bmwx3fuloprema",
+    "ime": "Marko",
+    "prezime": "Obradovic",
+    "email": "mare@gmail.com",
+    "ocene": []
+  },
+  {
+    "broj_indeksa": "20191000",
+    "lozinka": "1234",
+    "ime": "Vanja",
+    "prezime": "Petric",
+    "email": "vanja@",
+    "ocene": [
+      {
+        "sifra_predmeta": 111,
+        "sifra_profesora": 200,
+        "ocena": 6
+      }
+    ]
+  }
+]
